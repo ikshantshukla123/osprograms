@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, sans-serif;
+}
+
+body {
+  background-color: #f4f5f7;
+  color: #1a202c;
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Horizontal chip rails on mobile: scroll, no visible scrollbar */
+.chip-rail {
+  scrollbar-width: none;
+}
+.chip-rail::-webkit-scrollbar {
+  display: none;
+}
