@@ -1,0 +1,21 @@
+{
+  "programs": [
+    { "id": "gsoc", "urls": ["https://summerofcode.withgoogle.com/programs/2026/timeline", "https://developers.google.com/open-source/gsoc/timeline"] },
+    { "id": "outreachy", "urls": ["https://www.outreachy.org/apply/", "https://www.outreachy.org/"] },
+    { "id": "lfx", "urls": ["https://mentorship.lfx.linuxfoundation.org/", "https://docs.linuxfoundation.org/lfx/mentorship/mentee-guide/timelines"] },
+    { "id": "mlh-fellowship", "urls": ["https://fellowship.mlh.io/"] },
+    { "id": "gssoc", "urls": ["https://gssoc.girlscript.tech/"] },
+    { "id": "hacktoberfest", "urls": ["https://hacktoberfest.com/"] },
+    { "id": "season-of-kde", "urls": ["https://season.kde.org/"] },
+    { "id": "season-of-docs", "urls": ["https://developers.google.com/season-of-docs/docs/timeline"] },
+    { "id": "summer-of-bitcoin", "urls": ["https://www.summerofbitcoin.org/"] },
+    { "id": "c4gt", "urls": ["https://app.codeforgovtech.in/"] },
+    { "id": "fossee", "urls": ["https://fossee.in/fellowship"] },
+    { "id": "ssoc", "urls": ["https://ssoc.devfolio.co/"] },
+    { "id": "linux-kernel-mentorship", "urls": ["https://wiki.linuxfoundation.org/lkmp"] },
+    { "id": "24-pull-requests", "urls": ["https://24pullrequests.com/"] },
+    { "id": "ospp", "urls": ["https://summer-ospp.ac.cn/"] },
+    { "id": "esoc", "urls": ["https://www.esoc.dev/"] },
+    { "id": "igalia-ce", "urls": ["https://www.igalia.com/coding-experience/"] }
+  ]
+}
