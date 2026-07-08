@@ -41,7 +41,9 @@ export default function ProgramRow({
         <div className="text-xs text-gray-500 truncate">{dateLine}</div>
       </div>
       <div className="hidden md:block text-sm text-gray-500 w-40 truncate">{program.stipend ?? "—"}</div>
-      <StatusBadge status={ps.status} size="sm" />
+      <div className="shrink-0 max-w-[45%] sm:max-w-[40%]">
+        <StatusBadge status={ps.status} size="sm" />
+      </div>
     </Link>
   );
 }

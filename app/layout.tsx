@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import "./globals.css";
 import { SITE_URL, SITE_NAME } from "@/lib/data";
+import SiteNav from "@/components/SiteNav";
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
@@ -25,27 +26,9 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           <div className="max-w-6xl mx-auto px-4 h-14 flex items-center justify-between gap-4">
             <Link href="/" className="flex items-center gap-2 font-bold text-gray-900 shrink-0">
               <span className="inline-block h-2.5 w-2.5 rounded-full bg-emerald-500" />
-              <span>
-                OS Programs<span className="hidden sm:inline"> Tracker</span>
-              </span>
+              <span>OS Programs Tracker</span>
             </Link>
-            <nav className="flex items-center gap-1 text-sm font-medium text-gray-600">
-              <Link href="/" className="px-3 py-1.5 rounded-md hover:bg-gray-100 hover:text-gray-900">
-                Programs
-              </Link>
-              <Link href="/orgs" className="px-3 py-1.5 rounded-md hover:bg-gray-100 hover:text-gray-900">
-                Find an org
-              </Link>
-              <Link href="/start" className="px-3 py-1.5 rounded-md hover:bg-gray-100 hover:text-gray-900">
-                Start here
-              </Link>
-              <a
-                href="#alerts"
-                className="ml-1 px-3 py-1.5 rounded-md bg-gray-900 text-white hover:bg-gray-700"
-              >
-                Get alerts
-              </a>
-            </nav>
+            <SiteNav />
           </div>
         </header>
         <main className="flex-1">{children}</main>

@@ -10,7 +10,7 @@ export default function ProgramCard({ program, ps }: { program: Program; ps: Pro
   return (
     <div className="group bg-white rounded-xl ring-1 ring-gray-200 p-4 flex flex-col gap-3 transition-all duration-150 hover:ring-sky-300 hover:shadow-md hover:-translate-y-0.5 active:translate-y-0 active:scale-[0.99] active:shadow-none">
       <div className="flex items-start justify-between gap-2">
-        <Link href={`/programs/${program.slug}`} className="font-semibold text-gray-900 leading-snug group-hover:text-sky-700 hover:underline transition-colors">
+        <Link href={`/programs/${program.slug}`} className="min-w-0 font-semibold text-gray-900 leading-snug group-hover:text-sky-700 hover:underline transition-colors">
           {program.name}
         </Link>
         <StatusBadge status={ps.status} size="sm" />

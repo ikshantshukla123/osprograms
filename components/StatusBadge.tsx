@@ -18,12 +18,13 @@ export default function StatusBadge({
   const s = STYLES[status.key];
   return (
     <span
-      className={`inline-flex items-center gap-1.5 rounded-full font-medium ring-1 ring-inset whitespace-nowrap ${s.badge} ${
+      className={`inline-flex items-center gap-1.5 rounded-full font-medium ring-1 ring-inset max-w-full ${s.badge} ${
         size === "sm" ? "px-2 py-0.5 text-[11px]" : "px-2.5 py-1 text-xs"
       }`}
     >
-      <span className={`h-1.5 w-1.5 rounded-full ${s.dot} ${status.key === "open" ? "animate-pulse" : ""}`} />
-      {status.label}
+      <span className={`shrink-0 h-1.5 w-1.5 rounded-full ${s.dot} ${status.key === "open" ? "animate-pulse" : ""}`} />
+      {/* Long TBA labels ("applications expected ~March 2027") must not blow out mobile rows */}
+      <span className="truncate">{status.label}</span>
     </span>
   );
 }
