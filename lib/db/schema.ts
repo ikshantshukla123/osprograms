@@ -62,6 +62,11 @@ export const subscribers = pgTable("subscribers", {
   created_at: timestamp("created_at", { withTimezone: true }).defaultNow(),
 });
 
+export const site_stats = pgTable("site_stats", {
+  key: text("key").primaryKey(), // e.g. 'visits'
+  value: integer("value").notNull().default(0),
+});
+
 export const sent_alerts = pgTable(
   "sent_alerts",
   {

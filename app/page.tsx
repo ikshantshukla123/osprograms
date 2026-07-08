@@ -2,6 +2,7 @@ import Link from "next/link";
 import { getPrograms, SITE_NAME } from "@/lib/data";
 import HomeExplorer from "@/components/HomeExplorer";
 import SubscribeForm from "@/components/SubscribeForm";
+import VisitorCounter from "@/components/VisitorCounter";
 import { getProgramStatus } from "@/lib/status";
 
 export const revalidate = 3600; // ISR — statuses recompute at least hourly
@@ -35,6 +36,7 @@ export default async function HomePage() {
             {today.toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric", timeZone: "UTC" })}
           </time>
         </p>
+        <VisitorCounter />
       </section>
 
       <HomeExplorer programs={programs} todayISO={todayISO} />
