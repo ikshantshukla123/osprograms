@@ -1,8 +1,9 @@
 "use client";
 
+import Link from "next/link";
 import { useMemo, useState } from "react";
 import type { Program } from "@/lib/types";
-import { getProgramStatus, compareByDeadline, type ProgramStatus } from "@/lib/status";
+import { getProgramStatus, compareByDeadline, formatDate, type ProgramStatus } from "@/lib/status";
 import Chip from "./Chip";
 import ProgramCard from "./ProgramCard";
 import ProgramRow from "./ProgramRow";
@@ -115,25 +116,21 @@ export default function HomeExplorer({
         <p className="text-center text-gray-500 py-12">No programs match those filters.</p>
       )}
 
-      {/* Open now — uniform cards, the visual star */}
-      {(openNow.length > 0 || (quick === "all" && !query && techFilter.length === 0)) && (
+      {/* Open now — uniform cards, the visual star. When nothing is open,
+          sell the nearest upcoming window instead of showing an empty state. */}
+      {openNow.length > 0 ? (
         <section id="open-now">
           <SectionHeading dot="bg-emerald-500" title="Open now" count={openNow.length} />
-          {openNow.length > 0 ? (
-            <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-              {openNow.map(({ program, ps }) => (
-                <ProgramCard key={program.id} program={program} ps={ps} />
-              ))}
-            </div>
-          ) : (
-            <div className="rounded-xl ring-1 ring-dashed ring-gray-300 bg-white/60 p-6 text-sm text-gray-500 text-center">
-              Nothing is accepting applications today.{" "}
-              <a href="#alerts" className="font-medium text-gray-900 underline">
-                Get an email the moment that changes →
-              </a>
-            </div>
-          )}
+          <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+            {openNow.map(({ program, ps }) => (
+              <ProgramCard key={program.id} program={program} ps={ps} />
+            ))}
+          </div>
         </section>
+      ) : (
+        quick === "all" && !query && techFilter.length === 0 && (
+          <NextWindowHero upNext={[...soon, ...upcoming, ...tba]} />
+        )
       )}
 
       {soon.length > 0 && (
@@ -180,6 +177,91 @@ export default function HomeExplorer({
         </section>
       )}
     </div>
+  );
+}
+
+function NextWindowHero({
+  upNext,
+}: {
+  upNext: { program: Program; ps: ProgramStatus }[];
+}) {
+  const next = upNext[0];
+  if (!next) return null;
+  const { program, ps } = next;
+  const cohort = ps.cohort;
+  const hasCountdown = ps.status.days !== null;
+  const followers = upNext.slice(1, 3);
+
+  return (
+    <section id="open-now" className="rounded-2xl bg-gray-900 text-white p-6 sm:p-8">
+      <div className="flex flex-col sm:flex-row sm:items-center gap-6">
+        <div className="min-w-0 flex-1 space-y-2">
+          <div className="text-xs font-semibold uppercase tracking-widest text-amber-400">
+            Nothing open today — next window
+          </div>
+          <Link
+            href={`/programs/${program.slug}`}
+            className="block text-2xl sm:text-3xl font-bold leading-tight hover:underline"
+          >
+            {program.name}
+          </Link>
+          <p className="text-sm text-gray-300">
+            {hasCountdown && cohort?.opens_at ? (
+              <>
+                Applications open{" "}
+                <span className="font-medium text-white">{formatDate(cohort.opens_at)}</span>
+                {cohort.closes_at && <> · close {formatDate(cohort.closes_at)}</>}
+              </>
+            ) : (
+              (cohort?.expected_note ?? "Dates not announced")
+            )}
+            {program.stipend && !/^(none|unpaid|no stipend)/i.test(program.stipend) && (
+              <> · {program.stipend}</>
+            )}
+          </p>
+        </div>
+
+        {hasCountdown && (
+          <div className="shrink-0 text-center sm:text-right">
+            <div className="text-5xl font-bold tabular-nums text-amber-400">{ps.status.days}</div>
+            <div className="text-xs uppercase tracking-widest text-gray-400">
+              {ps.status.days === 1 ? "day to go" : "days to go"}
+            </div>
+          </div>
+        )}
+      </div>
+
+      <div className="mt-5 flex flex-col sm:flex-row sm:items-center gap-3">
+        <a
+          href="#alerts"
+          className="rounded-lg bg-white text-gray-900 px-5 py-2.5 text-sm font-semibold text-center hover:bg-gray-200 active:scale-95 transition-transform"
+        >
+          Get alerted before it opens →
+        </a>
+        <Link
+          href={`/programs/${program.slug}`}
+          className="rounded-lg ring-1 ring-inset ring-gray-600 px-5 py-2.5 text-sm font-medium text-center text-gray-200 hover:bg-gray-800"
+        >
+          Details
+        </Link>
+        {followers.length > 0 && (
+          <p className="sm:ml-auto text-xs text-gray-400">
+            then:{" "}
+            {followers.map(({ program: p, ps: fps }, i) => (
+              <span key={p.id}>
+                {i > 0 && " · "}
+                <Link href={`/programs/${p.slug}`} className="text-gray-300 hover:underline">
+                  {p.name}
+                </Link>
+                {fps.status.days !== null && fps.cohort?.opens_at
+                  ? ` (${formatDate(fps.cohort.opens_at)})`
+                  : ""}
+              </span>
+            ))}
+          </p>
+        )}
+      </div>
+    </section>
   );
 }
 
