@@ -1,0 +1,53 @@
+Code for GovTech | Digital Public Goods
+Your code can impact millions
+Code for GovTech (C4GT) is a unique program aimed at creating India's first active open-source community of coders that can build and contribute to global
+Digital Public Goods.
+To ensure sustainable adoption of DPGs, building an open source community of vibrant young coders is key!
+If you want to use technology to create large scale impact, then this is the opportunity for you. Read ahead to know more!
+Knowledge Partner
+C4GT Community Program
+The Community Program is focused on building a long-term open-source community by enabling DPG organizations to list their DPG-related problem statements and access a wide community of contributors who can solve these problem statements. The goal is to build a community of 25000+ contributors in the next 3 years.
+Why should you participate as an organization ?
+Community-Led Effort
+Ensure sustainability & adoption of your DPG with access to long-term contributors.
+Innovate & Build
+Conduct PoCs, new feature development & more through the community.
+Identify Young Talent
+Create a talent pipeline through active contributors.
+Engage with Adopters
+Connect with potential adopters who are a part of the community.
+Why should you participate as a contributor?
+Access to Opportunities
+Get access to exclusive events, opportunities, and learning sessions with ecosystem leaders
+Develop & Showcase Skills
+Build technical skills by contributing to complex projects & build a portfolio
+Accumulate Points
+Get certificates, Badges, C4GT goodies, bragging rights & community privileges. Opportunity to earn money for certain contributions as well!
+C4GT Mentoring Program
+The Dedicated Mentoring Program is India's first annual mentoring & coding program focussed on Digital Public Goods where selected contributors get the opportunity to work on population-scale projects, receive 1:1 mentorship from leading practitioners & get a stipend of 1,00,000 rupees.
+Why should you apply to the Mentoring Program ?
+1: 1 Dedicated Mentorship
+Hands-on mentoring with weekly catch-ups,problem-solving sessions and professional development from industry.
+Create impact at scale
+Opportunity to work on population scale impact projects & build meaningful solutions using technology.
+Vibrant community
+Learn about how DPGs are breaking barriers, solve good first issues & network with talented coders & industry veterans.
+Career Advancment
+Contributors will be considered for PPIs with participating entities & receive Rs 1,00,00 as stipend.
+Exposure to experts
+Interact & engage with experts from the ecosystem such as Pramod Varma (CTO Aadhar), Ravi Prakash (Beckn) & more!
+Hands-on learning
+Access to immersive boot camps, peer-to-peer sessions & product deep-dives. Implement learnings on your projects!
+Highlights from C4GT 2022
+Overview
+The first edition of C4GT was launched in May 2022, and it saw participation from 346 applicants out of which 13 were chosen. They successfully created 25+ features & wrote 100K lines of code across 9 key projects.
+Know More
+C4GT Mentors
+Here is what past mentors have to say.
+Program Report
+Check out C4GT 2022 highlights
+Knowledge Partner
+Community Partner
+Platform Partner
+Organiser
+Project Partners

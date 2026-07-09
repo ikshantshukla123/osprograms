@@ -1,0 +1,360 @@
+European Summer of Code
+ESoC 2026
+European Summer of Code 2026
+Funding stipends for contributors new to open source worldwide, and matching applied AI projects in Europe with international open source projects.
+Learn More
+Projects
+10+
+Hubs
+3+
+Open Source Projects
+14+
+What is European Summer of Code?
+European Summer of Code (ESoC) funds stipends for contributors new to open source, and matches open source projects and applied AI projects throughout Europe. We are much indebted to the Google Summer of Code for inspiration.
+For Junior Developers
+Providing opportunities to engage with open source worldwide
+Work with experienced mentors
+Build your portfolio
+Receive stipends for your work
+Join a community of like-minded developers
+For Open Source
+Linking the worldwide open source landscape with private and public sector projects
+Connect with applied projects and sponsors
+Increase visibility for your project
+Receive support for your ecosystem
+Expand your contributor base
+For Applied Projects
+Providing support to the wider open source ecosystem
+Connect with relevant open source projects
+Find talented developers
+Accelerate your development
+Contribute to the open source community
+Batch 1 —
+February 18, 2026
+Applications Open In
+00
+Days
+00
+Hours
+00
+Minutes
+00
+Seconds
+Program Details
+Learn how European Summer of Code works for applicants, projects, and sponsors.
+Applicant Guide
+How to apply for European Summer of Code 2026
+Projects
+2026 projects are released in two batches: February 18 and April 1, with rolling releases thereafter. Projects have their own timelines and may come with their own terms and conditions.
+Application Process
+Applicants need to do two things to apply:
+1
+Register for ESoC
+Complete the ESoC
+applicant registration form
+.
+2
+Follow Project-Specific Steps
+Follow any additional 'how to apply' steps from the project card of your preferred projects.
+3
+Meet Deadlines
+Complete both steps before the project application deadline or batch deadline.
+4
+Wait for Results
+You will receive a letter from ESoC on your application(s) no later than 6 weeks after the application deadline.
+Recommendations
+Ensure your submitted email address is correct, use the same name and email throughout the process, and submit early to avoid technical issues close to deadlines.
+Project and Sponsor Guide
+How to participate as a project or sponsor
+Onboarding Process
+Private and public sector organizations wishing to host a project should submit a project
+sponsor form
+. Open source projects should directly contact our
+LinkedIn
+organization.
+Contact us on LinkedIn.
+Funding Models
+Choose between two funding models:
+1
+Option A: Donation for Stipend
+You donate to a hub, and the hub contracts with the participant. The 'stipend' requires that a significant portion of the outputs are in the open domain.
+2
+Option B: Paid Internship
+You can use your own contract template, in this case the hub will only act as matchmaker, and you will directly contract with applicants.
+Project Card
+Project cards should include: project title, logos, description, goals, organization info, technical details, application instructions, and deadlines.
+ESoC Hubs
+The organizational structure of European Summer of Code
+Current Hubs
+ESoC is organized in a decentral and distributed fashion, by hubs across Europe:
+Hub Network
+Current hubs include:
+🇫🇷
+France
+probabl
+🇩🇪
+Germany
+German Center for Open Source AI
+🇮🇹
+Italy
+Fondazione Bruno Kessler
+Expansion
+We are actively looking to expand our network of hubs and affiliated open source projects.
+Get in touch on LinkedIn to discuss details.
+Program Timeline
+Key dates and milestones for the European Summer of Code 2026 program.
+January 30, 2026
+Information Event
+ESoC info event sponsored by AI-on-Demand Platform. General info, applicant guide, Q&A.
+Event
+Announcement
+February 18, 2026
+Batch 1 — Applications Open
+First batch of 2026 projects released. Applications open.
+Projects
+Applications
+March 19, 2026
+Batch 1 — Applications Close
+Deadline for Batch 1 applications (18:00 UTC).
+Deadline
+Applications
+April 1, 2026
+Batch 2 — Applications Open
+Second batch of 2026 projects released. Applications open.
+Projects
+Applications
+April 15, 2026
+Batch 1 — Projects Start
+Accepted Batch 1 applicants begin their projects.
+Projects
+Mentoring
+April 30, 2026
+Batch 2 — Applications Close
+Deadline for Batch 2 applications (18:00 UTC).
+Deadline
+Applications
+May 25, 2026
+Batch 2 — Projects Start
+Accepted Batch 2 applicants begin their projects.
+Projects
+Mentoring
+2026 Project List
+Batch 1 and 2 of 2026 projects. See each project card for application details and deadlines.
+Applied Project
+AI
+Time Series
+Embedded AI for Predictive Sensor Systems in Agriculture 4.0
+Develop embedded time series AI for real-time monitoring and foreign object detection in next-generation agricultural machinery.
+Details & Apply (by April 30)
+Webpage
+Applied Project
+AI
+Biotech
+AI for automated drug discovery with pyaptamer
+Contribute to pyaptamer, the open source package for in-silico aptamer design, and help expand algorithms, API robustness, and interoperability.
+Details & Apply (by April 30)
+Webpage
+AI
+Explainable AI
+Interpretability
+shap
+Contribute to shap, the original framework for explainable AI, by improving efficiency, testing, or implementing new model support.
+Details & Apply (by April 30)
+Webpage
+AI
+Agentic
+Time Series
+sktime agentic
+Work on agentic and genAI features around sktime, including sktime-mcp integrations and new LLM-assisted time series workflows.
+Details & Apply (by April 30)
+Webpage
+AI
+Machine Learning
+Platform
+AI-on-Demand platform
+Contribute to ai-on-demand – the European vision for an open AI portal! Multiple projects are available: catalogue functions, backend maintenance, performance optimization, service improvements, and more.
+Details & Apply (by March 18)
+Webpage
+AI
+Machine Learning
+Causal Learning
+pgmpy - Causal Inference and Structure Learning
+Contribute to pgmpy – the framework for causal inference, causal structure learning, and causal simulation. Help implement new types of causal models and increase interoperability of, and within, the package!
+Details & Apply (by March 18)
+Webpage
+AI
+Machine Learning
+Interpretability
+pyGAM - Generalized Additive Models for Python
+Contribute to pyGAM – the interpretable machine learning library for additive modeling! Help implement new spline terms and distributions, improve model diagnostics and visualization tools, and expand compatibility with the broader scientific Python ecosystem.
+Details & Apply (by March 18)
+Webpage
+Packaging
+Rust
+Python
+rattler - Rust Crates for Conda Packages
+Contribute to rattler – the library that provides common functionality used within the conda ecosystem, built in Rust. Projects are available to implement build process mechanisms, for instance via parallelization.
+Details & Apply (by March 19)
+Webpage
+AI
+Machine Learning
+Probabilistic
+skpro - Probabilistic Supervised Learning
+Contribute to skpro – the unified framework for probabilistic supervised machine learning! Exciting projects are available in areas such as probabilistic deep learning, calibration, distributional metrics, composite models, and more.
+Details & Apply (by March 19)
+Webpage
+AI
+Machine Learning
+Time Series
+sktime - ML with Time Series
+Contribute to sktime! sktime offers a unified API for forecasting, classification, detection, and other learning tasks. Exciting projects are available in the areas of deep learning, foundation models, probabilistic forecasting, and more.
+Details & Apply (by March 19)
+Webpage
+AI
+Deep Learning
+Time Series
+pytorch-forecasting & dsip-ts
+Deep learning for time series forecasting made easy with PyTorch. Projects are available focusing on improving model interfaces, upgrading the package to include foundation models, and more!
+Details & Apply (by March 19)
+Webpage
+2025 Project List
+Explore projects from ESoC 2025.
+AI
+Machine Learning
+Platform
+AI-on-Demand and OpenML - The European AI Platform
+Contribute to build the European AI-on-Demand Platform using OpenML - the open hubs for AI models, benchmarks, and projects. Funded by the Horizon Europe Programme of the EU.
+View Details
+Webpage
+Applied Project
+AI
+Causal Learning
+Electrolux - Causal Learning for Time Series
+Build the open source AI landscape for causal AI in time series, with applications across supply chain management and retail! In collaboration with, and sponsored by Electrolux.
+View Details
+Webpage
+Applied Project
+AI
+Biotech
+Open Source AI for Drug Discovery
+Build open source AI for drug discovery, accelerating aptamer design for diagnostic and medical applications! Sponsored by German engineering services provider ecoSPECS.
+View Details
+Webpage
+AI
+Machine Learning
+Causal Learning
+pgmpy - The Causal Learning Library for Python
+Contribute to pgmpy, the Python library for causal learning! Help implement cutting edge causal learning algorithms, improve interoperability, and enhance the user experience.
+View Details
+Webpage
+AI
+Machine Learning
+Data Visualization
+skore - Elevate ML Development with Built-in Recommended Practices
+Contribute to skore, the scikit-learn sidekick! Help improve data visualization in skore by implementing more displays, a Plotly display backend and providing access to underlying display data.
+View Details
+Webpage
+Packaging
+Lua
+Ruby
+Python
+pixi - Package Management Made Easy
+Contribute to pixi, the universal package manager! Help improve user experience, build user interfaces, and extend scope to more programming languages!
+View Details
+Webpage
+Packaging
+Rust
+Python
+rattler-build - Rust Crates for Mamba & Conda Packages
+Contribute to rattler, fast mamba packager! Work on rattler-build to implement build process mechanisms, parallelize package installation, and improve the user experience.
+View Details
+Webpage
+Machine Learning
+Optimization
+Python
+Gradient-Free-Optimizers & hyperactive - the python toolboxes for optimization
+Contribute to Gradient-Free-Optimizers & hyperactive! Help improve the Python toolboxes for optimization and data collection. Projects include implementing new optimizers, improving documentation, and more!
+View Details
+Webpage
+Applied Project
+AI
+Biotech
+ecoSPECS - AI for biotechnological cleanroom design
+Build AI for design and equipment qualification of cleanrooms for biotech and pharmacological applications! Work with German engineering services provider ecoSPECS to fundamentally accelerate qualification processes in drug development, production, and monitoring worldwide.
+View Details
+Webpage
+AI
+Machine Learning
+Time Series
+sktime - The unified framework for machine learning with time series
+Contribute to sktime! sktime offers a unified API for forecasting, classification, detection, and other learning tasks. Exciting projects are available in the areas of deep learning, foundation models, probabilistic forecasting, and more.
+View Details
+Webpage
+AI
+Deep Learning
+Time Series
+pytorch-forecasting & dsip-ts
+Deep learning for time series forecasting made easy with PyTorch. Projects are available, focusing on improving model interfaces, upgrading the package to include foundation models, and more!
+View Details
+Webpage
+Affiliated Open Source Projects
+Meet some of the open source projects affiliated with the European Summer of Code 2026.
+AI-on-Demand
+Open Source Project
+The European AI-on-Demand Platform — open hubs for AI models, benchmarks, and projects.
+Learn More
+hyperactive
+Open Source Project
+An optimization and data collection toolbox.
+Learn More
+openML
+Open Source Project
+The open platform for sharing datasets, algorithms, and experiments.
+Learn More
+pixi
+Open Source Project
+Package Management Made Easy.
+Learn More
+pgmpy
+Open Source Project
+Causal learning in Python.
+Learn More
+prophetverse
+Open Source Project
+A multiverse of Prophet models for time series.
+Learn More
+pykalman
+Open Source Project
+Python implementation of the Kalman Filter, Kalman Smoother, and EM algorithm.
+Learn More
+pytorch-forecasting
+Open Source Project
+Deep learning for time series forecasting made easy with PyTorch.
+Learn More
+pytorch-tabular
+Open Source Project
+Deep learning for tabular data made easy with PyTorch.
+Learn More
+rattler
+Open Source Project
+Rust crates for fast handling of conda packages.
+Learn More
+scikit-base
+Open Source Project
+Base classes for scikit-learn compatible libraries.
+Learn More
+skforecast
+Open Source Project
+Time series forecasting with machine learning models.
+Learn More
+skpro
+Open Source Project
+Probabilistic supervised learning in Python.
+Learn More
+sktime
+Open Source Project
+The unified framework for machine learning with time series.
+Learn More
+Become a Participating Organization
+Join the European Summer of Code as a participating organization and help shape the future of open source and AI in Europe.
+Apply as an Organization

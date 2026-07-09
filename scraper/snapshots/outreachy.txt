@@ -1,0 +1,153 @@
+Apply to Outreachy
+- Outreachy
+Log In
+Applicants
+Applicant Guide
+Internship Guide
+Apply to Outreachy
+My Application
+Current Projects
+Past Projects
+Communities
+Community Guide
+Volunteering FAQ
+Community Sign-up
+Mentor Sign-up
+My Mentored Projects
+All Projects
+Interns
+Internship Guide
+My Internship
+Past Interns
+Donors
+Sponsor Outreachy
+Individual Donations
+About Us
+Contact Us
+Promote Outreachy
+Blog
+Outreachy is a paid, remote internship program. Outreachy's goal is to support people from groups underrepresented in tech. We help newcomers to Free and Open Source Software make their first contributions.
+What is Free Software and Open Source?
+Are you new to the free software world? Outreachy is for you! The term "free software" or "open source" means that you have the freedom to use, copy, study, change, and improve a project. Examples of open source projects include software like Linux or Firefox, documentation projects like Wikipedia, or graphic design projects like OpenClipArt.org. If you're new to open source, we encourage you to
+read an introductory article.
+Open source projects are built collaboratively. Open source contributors work together publicly. Working publicly creates a
+fun collaborative community around a project. It allows anyone to make
+innovative changes that reach many people.
+Open source contributors work on a lot of different things! You can contribute by developing software. Or you might want to improve user experience by contributing design work. You can help with documentation, community management, marketing,
+identifying issues and reporting bugs, helping users, event
+organization, graphic design, and translations.
+Sometimes people work on open source in their spare time. Many contributors are
+employed by companies and non-profit organizations to work on open source. That includes the companies that
+are sponsoring Outreachy!  Experience with open source is highly valuable in the
+professional world. Your contributions to open source provide a public portfolio for you. Employers can see your history of public collaboration, which will give them confidence when making
+hiring decisions.
+Why Apply to Outreachy?
+Outreachy provides an opportunity for an online collaborative environment for learning, and remote mentoring with experienced FOSS contributors, many of whom are employed to work with free and open source software. The Outreachy travel stipend gives interns a chance to network with
+their community, give their first public tech talk, look for a job, or learn new skills.
+But don't take our word for it! Here's what some of our past Outreachy interns have to say about our program:
+I reaaaaally don't want my
+@outreachy
+internship with
+@mozilla
+to end. The last 2 months were incredible. 💙
+— Prathiksha (@prathiksha0105)
+August 11, 2017
+The amount of knowledge I've gained as an OpenSource developer being an
+@outreachy
+Intern + the conviction is something Ill cherish forever!
+https://t.co/sXbqbFcJFg
+— Urvika Gola (@UrvikaGola)
+August 23, 2017
+Cannot recommend this program enough. Definitely worth participating.. Thank you
+@outreachy
+for the best 3 months
+https://t.co/yfsBrRJCJi
+— Princiya (@princi_ya)
+August 23, 2017
+Some update on my amazing
+@outreachy
+journey. Really learning and great mentorship from
+@Ceph
+mentors.
+https://t.co/MA4jgAWd5W
+— Joannah Nanjekye (@Captain_Joannah)
+June 30, 2017
+Started as a mentee, continued as a mentor. I've seen really great talent grow thanks to this program. Please consider applying!
+https://t.co/OFC17vM5pH
+— vkmc (@vkmc)
+August 22, 2017
+I'd tell them it was the best experience of my life, made me realize my love for Software & made me overcome impostor syndrome.
+— Mansimar Kaur (@mkaur1102)
+August 27, 2017
+Blog posts with tips for applying to internship programs:
+Get the most out of your Outreachy Intern application process
+How I got into Outreachy's open source internship program
+Getting into Summer of Code Programs
+The End of My Internship
+- note Outreachy used to be called OPW
+Suggestions for Outreachy applicants
+Outreachy internships were inspired in many ways by
+Google Summer of Code
+. Our program is designed to support people from groups underrepresented in tech. We reach talented and passionate participants, who are uncertain about how to get started in free and open source software. We hope this effort will help many people learn how exciting, varied and valuable work on FOSS projects can be and how inclusive the community really is. This program is a welcoming link that will connect you with people working on individual projects in various FOSS organizations and guide you through your first contribution.
+How To Apply
+We're so excited to have you apply! The
+application process for Outreachy is longer than most internship
+applications, so we highly encourage applicants to start their
+application
+at least 2-3 weeks before the Outreachy application deadline
+.
+The application process consists of five steps:
+1.
+Make sure you're eligible to apply for Outreachy
+. We have strict eligibility rules for people who are students, so it's important that you confirm you're eligible.
+2.
+Pick 1-2 projects.
+Look at the proposed projects and pick 1-2 projects that look
+interesting to you. There will be more information on each community's
+landing page, including community chat channels and mentor contact
+information if you need to ask questions about the projects. You will need to complete the eligibility check and be eligible to apply in order to see project details.
+3.
+Make small, consistent contributions to the project(s) you've chosen
+. Each project will have a set of tasks for you to complete to see if you
+like working on the project. It's less important that you make a big,
+last minute contribution, and more important that you're in contact with
+the mentors, asking questions, and sending small contributions at a
+steady pace.  Only applicants that make at least one contribution, record that contribution on the Outreachy website, and submit a final application will be able eligible to be accepted as an intern. We find that the strongest applicants make
+multiple contributions
+throughout the application process, including after the application
+deadline.
+4.
+Record in-progress contributions on the Outreachy website
+. You'll need to
+go to the community landing page linked from the projects listing page
+. Then click the 'Record Contribution' button. Add links and descriptions to your contributions and the project timeline before the
+application deadline. You can always go back and edit your recorded contributions. A contribution doesn't have to be merged or accepted to be recorded.
+5.
+Complete your final application.
+You'll need to
+go to the community landing page linked from the projects listing page
+. Then click the 'Update Contributions and and Apply to This Project' button below the project you want to apply for. You will need to submit a final application to each project you've made a contribution to. The button to add the final application will only appear once you have recorded at least one contribution. Also, when applying for May internship rounds,
+check if there is an opportunity to apply for Google Summer of Code
+with the same project and complete an application for it as well.
+Application process next step: (1/5) Check Eligibility
+Copyright © 2026 Outreachy
+Free to share and remix:
+Creative Commons CC-BY
+, except for the individual organization logos, which are property of their respective owners, and any pictures with additional creative commons attributions.
+The Outreachy website is built with
+Django
+,
+Wagtail
+,
+bootstrap
+and deployed with
+Dokku
+. The code is licensed
+GPL v3
+and can be found in the
+Outreachy website GitHub repo.
+There is a separate
+GitHub repo for creative works
+This program and all offers related to it are void where prohibited or restricted by law or where operation of the program would violate any law or right. All participants in the program must agree to the terms and conditions of the program which will be provided to the selected applicants.
+Outreachy privacy policy
+.

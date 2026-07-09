@@ -1,0 +1,66 @@
+Mentorship | Linux Foundation Documentation
+⌘
+Ctrl
+k
+LFX Platform
+Single Sign-On (SSO)
+Individual Dashboard (MyProfile)
+Community Data Platform
+Project Control Center
+Organization Dashboard
+Security
+EasyCLA
+Mentorship
+Standards of Excellence
+Program Schedule & Timelines
+Platform Overview
+Administrators
+Mentees
+Mentors
+Mentee Stipends
+Mentee Guide
+Mentor Guide
+Mentorship FAQs
+Mentorship - Get Help
+Crowdfunding
+Linux Foundation Individual Supporter Program
+LFX Drive
+Member Enrollment
+Powered by GitBook
+On this page
+For the complete documentation index, see
+llms.txt
+. This page is also available as
+Markdown
+.
+Copy
+On this page
+Mentorship
+Mentorship makes pairing promising open-source talent with experienced mentors easier than ever. A mentorship program is a structured relationship between a mentor and a mentee, aimed at helping the mentee achieve their personal or professional goals. Invest in building a more robust and diverse community of qualified developers and engineers.
+The main goal of a mentorship program is to transfer knowledge, skills, and experience from the mentor to the mentee to help the mentee grow and develop in their personal and professional lives.
+How to Participate
+You can participate in the Linux Foundation Mentorship program as a program administrator, a mentor, or a mentee.
+Program Administrator
+: As a program administrator, you will
+enroll in a mentorship program
+on the platform and act as a single point of contact for mentors, mentees, and the Linux Foundation's HR and finance teams. Specifically, you collaborate with mentors during the application review process and work closely with The Linux Foundation's HR and finance teams to oversee the mentee acceptance process and stipend payments.
+Mentor
+: Mentors volunteer their time to work with mentees during the mentorship program. You will need to
+create a mentor profile
+on the Mentorship platform before requesting to be a mentor for the Linux Foundation Mentorship program.
+Mentee
+: Mentees
+need to create a mentee
+profile to apply to The Linux Foundation's mentorship programs. As a mentee, you will have the opportunity to contribute to an open-source project while working under the guidance of an experienced mentor who's an active contributor to the project and open-source community.
+How does the program work?
+First, a program administrator enrolls a mentorship program. Then, mentors and mentees participate, as shown in the following high-level diagram:
+Previous
+Manage your Profile
+Next
+Standards of Excellence
+Last updated
+2 months ago
+Was this helpful?
+How to Participate
+How does the program work?
+Was this helpful?

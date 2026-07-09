@@ -1,0 +1,161 @@
+Outreachy | Internships Supporting Diversity in Tech
+- Outreachy
+Log In
+Applicants
+Applicant Guide
+Internship Guide
+Apply to Outreachy
+My Application
+Current Projects
+Past Projects
+Communities
+Community Guide
+Volunteering FAQ
+Community Sign-up
+Mentor Sign-up
+My Mentored Projects
+All Projects
+Interns
+Internship Guide
+My Internship
+Past Interns
+Donors
+Sponsor Outreachy
+Individual Donations
+About Us
+Contact Us
+Promote Outreachy
+Blog
+Outreachy
+Outreachy provides
+internships in open source.
+Outreachy provides internships to anyone from any background who faces underrepresentation, systemic bias, or discrimination in the technical industry where they are living.
+Outreachy internships are:
+💵
+Paid
+- $7,000 USD total internship stipend
+🌍
+Remote
+- both interns and mentors work remotely
+🕰
+3 months
+- internships run May to August, or December to March
+Internships are not linked to employment opportunities at supporting organizations.
+Work on Open Source
+Outreachy has internship projects in open source. Outreachy internship projects may include programming, research, user experience, documentation, graphical design, data science, marketing, user advocacy, event planning, and more!
+📘
+Read the Outreachy applicant guide
+for details.
+Important dates
+May 2026 internships:
+✍🏿
+Intern applications
+accepted from February 6 to February 13, 2026
+🙋🏽
+Mentors sign up
+until March 7 at 4 pm UTC
+📑 Applicants contribute to projects from March 17 to April 15
+🙌🏿 Internships run May 18 to August 17, 2026
+December 2026 internships:
+✍🏿
+Intern applications
+are accepted from early August to mid August
+🙋🏽
+Mentors sign up
+from early August to late September
+📑 Applicants contribute to projects from late September to late October
+🙌🏿 Internships run early December 2026 to early March 2027
+📬
+Sign up for our mailing list
+to be notified of future internships.
+Supporting Diversity in Open Source
+Outreachy is a diversity initiative of
+Software Freedom Conservancy
+.
+Outreachy's goal is to increase
+diversity in open source
+. Past Outreachy interns are:
+♀️ 92% women, ♂️ 4% men
+🏳️‍🌈 4% transgender, genderqueer, or non-binary people
+🧕🏾 64% people of color, 36% white
+🧑🏿 12% people from a historically disadvantaged caste or tribe
+Statistics are based on responses to the 2019 longitudinal study of Outreachy alums, and they're based on self-identification.
+Outreachy invites all applicants from any background to apply. Outreachy openly welcomes women (both cis and trans), trans men, and genderqueer people to apply. We also expressly invite applications from residents and nationals of the United States of any gender who are Black/African American, Hispanic/Latinx, Native American/American Indian, Alaska Native, Native Hawaiian, or Pacific Islander.
+Anyone who faces under-representation, systemic bias or discrimination in the technology industry of their country is invited to apply.
+There is no list of groups that are eligible or ineligible for Outreachy. Outreachy interns have been from countless backgrounds and identities. Check our
+alums page
+to learn more about them.
+Apply to Outreachy
+Read more about applying to Outreachy
+Read the Outreachy Applicant Guide
+Mentor Outreachy Interns
+We are seeking open source communities to be mentors for the June 2025 internship cohort. Important dates are:
+February 6, 2026
+- mentoring organization sign-up opens
+February 26, 2026 at 4 pm UTC
+- mentoring organization sign-up deadline
+March 7, 2026 at 4pm UTC
+- project submission deadline
+🙋🏽
+Sign up to mentor
+or
+contact us
+to express interest in having your open source or open science project mentor Outreachy interns.
+📚
+Read the community participation guide
+.
+📚 Read the
+mentor duties
+and
+mentor FAQ
+.
+📬
+Sign up for the Outreachy announcement mailing list
+💬
+Contact Outreachy organizers
+to express interest in mentoring future internship cohorts
+Support Outreachy
+💪
+Sponsor
+or
+donate
+to Outreachy
+🗣️
+Promote Outreachy
+Outreachy Sponsors
+We are currently seeking sponsorship for the December 2026 internship cohort. Please
+contact us
+if you are interested in becoming a sponsor.
+For details on Outreachy sponsorship, please
+read our sponsor guide
+.
+If you are interested in finding jobs with our sponsors, please follow the links from our
+opportunities page
+.
+May 2026 internship sponsors
+Ceiling Smasher
+Equalizer
+Promoters
+Includers
+Welcomers
+Copyright © 2026 Outreachy
+Free to share and remix:
+Creative Commons CC-BY
+, except for the individual organization logos, which are property of their respective owners, and any pictures with additional creative commons attributions.
+The Outreachy website is built with
+Django
+,
+Wagtail
+,
+bootstrap
+and deployed with
+Dokku
+. The code is licensed
+GPL v3
+and can be found in the
+Outreachy website GitHub repo.
+There is a separate
+GitHub repo for creative works
+This program and all offers related to it are void where prohibited or restricted by law or where operation of the program would violate any law or right. All participants in the program must agree to the terms and conditions of the program which will be provided to the selected applicants.
+Outreachy privacy policy
+.

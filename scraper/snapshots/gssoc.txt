@@ -1,0 +1,374 @@
+GirlScript Summer of Code 2026 - World's Largest Open Source Program
+GSSoC
+Community
+Label carefully. Your choices affect real scores.
+See label guide
+Contributors
+50K+
+Annual applicants and growing every year
+Applications Open
+Community
+500K+
+Learners across India and beyond
+Global Reach
+New in 2026
+AI Agents
+Build real-world AI agents solving problems in India
+Agents for India
+Started in
+2018
+GSSoC open source program by GirlScript Foundation
+Non-Profit
+GirlScript Summer of Code
+2026
+Build. Contribute. Ship.
+From Open Source to AI Agents. India's largest builder program for developers, students, and AI creators. A non-profit initiative by GirlScript Foundation.
+View Leaderboard
+Explore Tracks
+GSSoC 2026
+Open Source
+Agents for India Track
+GirlScript Foundation
+AI Builders Welcome
+#GSSoC2026
+Applications Live Now
+Powered by Cloudinary
+50,000+ Builders
+Build. Contribute. Ship.
+Smartly Labs
+Non-Profit Initiative
+GSSoC 2026
+Open Source
+Agents for India Track
+GirlScript Foundation
+AI Builders Welcome
+#GSSoC2026
+Applications Live Now
+Powered by Cloudinary
+50,000+ Builders
+Build. Contribute. Ship.
+Smartly Labs
+Non-Profit Initiative
+Our reach
+50,000+
+Annual applicants
+500K+
+Community members
+2018
+Program since
+Global
+Community presence
+What's changing
+What's new in
+GSSoC 2026
+01, New Track
+Agents for India Track
+Build and deploy real-world AI agents solving problems unique to India, powered by Smartly Labs with dedicated mentorship and industry exposure.
+Powered by Smartly Labs
+New in 2026
+01
+02, AI Guidelines
+AI Contribution Guidelines
+Clear distinction between AI-assisted and human contributions, a fair, transparent evaluation system that rewards genuine builders and creators.
+Fair Evaluation System
+Fair & Transparent
+02
+03, 2026 Focus
+Real-World Building Focus
+Move beyond basic PRs. Build projects, tools, and usable solutions that create real impact, not just commits. Quality over quantity, always.
+Ship things that matter
+Quality over Quantity
+03
+04, Bounties
+Bounty Integrations
+Earn extra leaderboard points via partner bounty programs. Cloudinary and more partners offer bonus rewards for building with their tools.
+Cloudinary & more
+Earn More Points
+04
+Choose your path
+Two tracks.
+One mission.
+01
+New in 2026
+Powered by Smartly Labs
+Agents for
+India Track
+Build and deploy AI agents solving real-world problems specific to India. Learn AI and automation, work on meaningful use cases, and get exposure to the Smartly Labs ecosystem.
+→
+Learn AI + automation
+→
+Build and publish agents
+→
+Work on real Indian use cases
+→
+Smartly Labs ecosystem access
+Apply for Agents Track
+02
+Classic GSSoC
+Open Source Program
+GSSoC Open
+Source Track
+Contribute to real repositories, grow your developer profile, and become part of one of the world's most celebrated open source communities. Ideal for every level.
+→
+Work on open source projects
+→
+Improve your GitHub profile
+→
+Learn collaboration and code review
+→
+Expert mentorship throughout
+Apply for GSSoC Track
+Featured Bounty Partner
+Cloudinary
+Featured 2026
+Build with Media APIs.
+Earn bonus points.
+Cloudinary joins GSSoC 2026 as our first featured bounty partner, bringing a Creator Program, Media APIs learning path, and real leaderboard rewards for contributors who build with their tools.
+Watch the Launch Event
+Creator Program
+Build and publish content using Cloudinary's media transformation tools.
+Media APIs Learning Path
+Hands-on experience with industry-grade image, video, and media APIs.
+Bonus Leaderboard Points
+Complete Cloudinary challenges to earn extra points on the GSSoC 2026 leaderboard.
+Timeline
+What & When
+Key milestones for GirlScript Summer of Code 2026
+01
+24th March 2026
+Launch Event + Applications Open
+GSSoC 2026 kicks off live! Attend the launch event for a walkthrough of the program, track guide, and the Cloudinary bonus session.
+02
+End of March / Early April 2026
+Selections
+Applications are reviewed and participants are selected. Contributors, mentors, project admins, and ambassadors are confirmed for the program.
+03
+April 2026
+Onboarding and Kick-off
+Selected participants are onboarded. Projects go live, contributors pick their issues, mentors are assigned, and the building begins.
+04
+May to June 2026
+Contribution Period
+The main program period. Contributors work on projects, submit PRs, build agents, earn points, and climb the leaderboard.
+05
+June to July 2026
+Final Evaluations and Results
+All contributions are evaluated, leaderboards are finalized, and top contributors across both tracks are recognized and rewarded.
+The process
+How It Works
+01
+Apply
+02
+Get selected
+03
+Choose your track
+04
+Start contributing
+/ building
+05
+Earn points
+06
+Get recognized
+Scoring & Rewards
+Leaderboard
+& Rewards
+Every contribution counts. The leaderboard tracks your progress in real time, earn points, climb ranks, and get recognized at the end of the program.
+01
+Contribution-based scoring
+Every merged PR, deployed agent, and completed task earns points on the live leaderboard.
+02
+Bonus points via partners
+Partner bounty programs (Cloudinary & more) unlock extra leaderboard points on top of your contributions.
+03
+Recognition for top contributors
+Certificates, swag, and featured recognition for the top performers across both tracks at program end.
+Community
+What People Say About Previous Editions
+Stories from contributors, mentors, and project admins of past editions.
+50K+
+Participants annually
+4.9★
+Average program rating
+500K+
+Community members
+7+
+Editions since 2018
+“
+Being part of the GSSoC core team has been an epic adventure. The community, the learning, and the people — everything about this program is remarkable.
+AS
+Anshika Saini
+Core Team Member
+GSSoC '24
+“
+Throughout this journey, all the mentors were very supportive at every step. GSSoC gave me the confidence to contribute to open source.
+AC
+Anchal Chaturvedi
+Contributor & Ambassador
+GSSoC '24
+“
+My journey through GSSoC '24 has been an exciting blend of learning and achievement. Even starting late, I made contributions I'm incredibly proud of.
+VS
+Vuppala Sai Srija
+Contributor
+GSSoC '24
+“
+Participating in GSSoC 2024 as a mentor has been incredibly rewarding. Watching contributors grow into confident developers is truly fulfilling.
+PK
+Payal Kumari
+Mentor
+GSSoC '24
+“
+As a Core Team Member of GSSoC '24, the experience has been incredibly enriching. I grew both professionally and personally in ways I didn't expect.
+JM
+Jeevana Maradana
+Core Team Member
+GSSoC '24
+“
+Being part of the GSSoC core team has been an epic adventure. The community, the learning, and the people — everything about this program is remarkable.
+AS
+Anshika Saini
+Core Team Member
+GSSoC '24
+“
+Throughout this journey, all the mentors were very supportive at every step. GSSoC gave me the confidence to contribute to open source.
+AC
+Anchal Chaturvedi
+Contributor & Ambassador
+GSSoC '24
+“
+My journey through GSSoC '24 has been an exciting blend of learning and achievement. Even starting late, I made contributions I'm incredibly proud of.
+VS
+Vuppala Sai Srija
+Contributor
+GSSoC '24
+“
+Participating in GSSoC 2024 as a mentor has been incredibly rewarding. Watching contributors grow into confident developers is truly fulfilling.
+PK
+Payal Kumari
+Mentor
+GSSoC '24
+“
+As a Core Team Member of GSSoC '24, the experience has been incredibly enriching. I grew both professionally and personally in ways I didn't expect.
+JM
+Jeevana Maradana
+Core Team Member
+GSSoC '24
+“
+Serving as a Project Admin for GSSoC was an incredibly fulfilling experience. The quality and enthusiasm of contributors is truly unmatched by any program.
+RM
+Rishi Mondal
+Project Admin
+GSSoC '24
+“
+Participating in GSSoC 2024 has been an incredibly rewarding journey. I made new friends, new skills, and built projects I'm genuinely proud of.
+TB
+Tina Borundia
+Contributor & Ambassador
+GSSoC '24
+“
+The mentors were phenomenal, always available, always encouraging. GSSoC wasn't just a program — it was a turning point in my developer career.
+RK
+Rahul Kumar
+Contributor
+GSSoC '24
+“
+Being a campus ambassador for GSSoC was one of the best decisions I made in college. Spreading open source to my campus was incredibly rewarding.
+SP
+Shreya Patel
+Campus Ambassador
+GSSoC '23
+“
+GSSoC gave me my first real pull request merged. The feeling of contributing to something real and impactful for the world is truly indescribable.
+AM
+Aryan Mehta
+Contributor
+GSSoC '23
+“
+Serving as a Project Admin for GSSoC was an incredibly fulfilling experience. The quality and enthusiasm of contributors is truly unmatched by any program.
+RM
+Rishi Mondal
+Project Admin
+GSSoC '24
+“
+Participating in GSSoC 2024 has been an incredibly rewarding journey. I made new friends, new skills, and built projects I'm genuinely proud of.
+TB
+Tina Borundia
+Contributor & Ambassador
+GSSoC '24
+“
+The mentors were phenomenal, always available, always encouraging. GSSoC wasn't just a program — it was a turning point in my developer career.
+RK
+Rahul Kumar
+Contributor
+GSSoC '24
+“
+Being a campus ambassador for GSSoC was one of the best decisions I made in college. Spreading open source to my campus was incredibly rewarding.
+SP
+Shreya Patel
+Campus Ambassador
+GSSoC '23
+“
+GSSoC gave me my first real pull request merged. The feeling of contributing to something real and impactful for the world is truly indescribable.
+AM
+Aryan Mehta
+Contributor
+GSSoC '23
+Partnerships
+Partner With GSSoC 2026
+GSSoC brings together 50,000+ developers, students, and AI builders across India. Power the next generation of builders.
+01
+Track Partner
+Own a track and build deep ecosystem presence. Get your product in the hands of thousands of motivated builders on real use cases.
+02
+Bounty Partner
+Reward contributors who build with your tools. Run a bounty program driving genuine adoption with bonus leaderboard points.
+03
+Learning Partner
+Host workshops and onboard new users. Reach motivated builders eager to learn and build with new technologies.
+04
+Community Partner
+Support city and campus GSX chapters. Expand your brand footprint across India's top engineering colleges.
+05
+Hiring Partner
+Access top contributors, the most active, skilled, and motivated builders from across India in one verified pool.
+06
+Featured Partner
+Maximum visibility across app, website, social (500K+), newsletters, and event swag. Full ecosystem integration with creator program and bounties.
+Become a Partner / Sponsor
+Our Partners
+Applications
+0
+applicants
+Builders, mentors, and creators from across India have already applied. Join them, applications are open now.
+Apply Now, It's Free
+Contributors
+Mentors
+Projects
+Ambassadors
+Volunteers
+Chapters
+Support the mission
+Built by community.
+Sustained by community.
+GirlScript Foundation is a non-profit making tech opportunities accessible to everyone. Everything we build is driven entirely by community effort.
+50K+
+Developers supported
+100%
+Free, always
+500K+
+Community members
+7+
+Years running
+What your support does
+Run programs like GSSoC and expand to more cities and campuses
+Support learners and builders who cannot afford paid programs
+Fund AI initiatives and create more accessible opportunities
+Help us reach the next 100,000 learners across India
+Support the Mission
+Every contribution, big or small, makes a difference.
+GirlScript Foundation is a registered non-profit.
+Ready to start
+your journey?
+View Leaderboard
+Join Community
+A non-profit initiative by GirlScript Foundation · Built by volunteers · Supported by community

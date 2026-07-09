@@ -1,0 +1,45 @@
+SoK - KDE Mentorship
+Skip to content
+Season of KDE
+Season of KDE is an outreach program hosted by the KDE community.
+Every year since 2013, KDE has been running Season of KDE (SoK) as a program similar to, but not quite the same as
+Google Summer of Code
+. SoK offers everyone an opportunity to participate in both code and non-code projects which benefit the KDE ecosystem. In the past few years, participants have not only contributed to new software features, but have also developed the KDE Continuous Integration system, created statistical reports for developers, ported KDE Applications, written documentation, and lots more.
+For some inspiration for your proposals, take a look at our
+Ideas
+page for the year you would like to contribute.
+Start of Season of KDE 2026
+2025-12-15
+Deadline for the contributors applications
+2026-01-14
+Projects announced
+2026-01-21
+Start of work
+2026-01-23
+End of work
+2026-03-20
+Results announced
+2026-03-27
+Certificates issued
+2026-05-20
+Merchandise and swag sent out by courier
+After the end
+FAQ
+Here are the most common questions/answers for Season Of KDE:
+Why Season Of KDE?
+https://community.kde.org/SoK
+Which project should I participate in?
+That is up to you to decide. We want all contributors to be motivated and happy, and to continue contributing to KDE as long as they can. So it is important to choose a project that you like!
+When should I start contributing?
+As soon as you can! Even if the aim is to introduce as many people as we can to KDE, we unfortunately cannot mentor everyone, so there is a selection done among the different candidates. We will mostly go with the people who have contacted us to discuss their proposal and start engaging with the project.
+Where are the project ideas?
+Go to
+https://community.kde.org/SoK/
+and click on "Ideas" under "Current year".
+I have an idea but it's not listed in the page. What do I do?
+Look for a mentor by contacting the relevant people in mailing lists and KDE Matrix channels. Some KDE contributors may be happy to mentor, but they didn't have a specific idea to add to the "Ideas" page and so they are not listed there. Your idea will have a higher chance of attracting mentors if it aligns with one of the
+KDE Goals
+.
+Where are the SoK rules?
+As it is a KDE internal event, the rules are not fixed and may vary each season.
+Home
