@@ -442,7 +442,8 @@ export const seedPrograms: Program[] = [
     stipend: "Stipends available (varies by project)",
     duration: "~3 months",
     eligibility: "Open worldwide, especially contributors new to open source",
-    eligibility_notes: "Two application batches in spring; projects start April/May.",
+    eligibility_notes:
+      "Two application batches in spring; projects start April/May. Application deadlines are 18:00 UTC. An info event with an applicant guide + Q&A usually runs in late January.",
     student_only: false,
     beginner_friendly: true,
     remote: true,
@@ -453,13 +454,17 @@ export const seedPrograms: Program[] = [
     cohorts: [
       c(16, "2026 Batch 1", {
         opens_at: "2026-02-18",
-        closes_at: "2026-03-18",
+        closes_at: "2026-03-19",
         program_start: "2026-04-15",
       }),
       c(16, "2026 Batch 2", {
-        opens_at: "2026-03-19",
-        closes_at: "2026-04-16",
-        program_start: "2026-05-15",
+        opens_at: "2026-04-01",
+        closes_at: "2026-04-30",
+        program_start: "2026-05-25",
+      }),
+      c(16, "2027", {
+        dates_announced: false,
+        expected_note: "Applications expected ~February 2027 (info event usually late January)",
       }),
     ],
   },
