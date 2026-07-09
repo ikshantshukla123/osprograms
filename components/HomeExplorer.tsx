@@ -190,7 +190,12 @@ function NextWindowHero({
   const { program, ps } = next;
   const cohort = ps.cohort;
   const hasCountdown = ps.status.days !== null;
-  const followers = upNext.slice(1, 3);
+  // Tease only windows with announced dates — TBA programs have no defined
+  // order and would imply a sequence that isn't real.
+  const followers = upNext
+    .slice(1)
+    .filter(({ ps: fps }) => fps.status.days !== null && fps.cohort?.opens_at)
+    .slice(0, 2);
 
   return (
     <section id="open-now" className="rounded-2xl bg-gray-900 text-white p-6 sm:p-8">
