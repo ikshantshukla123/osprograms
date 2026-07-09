@@ -188,10 +188,12 @@ export default async function ProgramPage({ params }: { params: Promise<{ slug: 
                 <Link
                   key={p.id}
                   href={`/programs/${p.slug}`}
-                  className="bg-white rounded-xl ring-1 ring-gray-200 p-3 hover:ring-gray-300 flex items-center justify-between gap-2"
+                  className="bg-white rounded-xl ring-1 ring-gray-200 p-3 hover:ring-sky-300 flex flex-col gap-1.5 sm:flex-row sm:items-center sm:justify-between sm:gap-2"
                 >
-                  <span className="text-sm font-medium text-gray-800 truncate">{p.name}</span>
-                  <StatusBadge status={sps.status} size="sm" />
+                  <span className="min-w-0 text-sm font-medium text-gray-800 truncate">{p.name}</span>
+                  <span className="shrink-0 self-start sm:self-auto sm:max-w-[55%]">
+                    <StatusBadge status={sps.status} size="sm" />
+                  </span>
                 </Link>
               );
             })}

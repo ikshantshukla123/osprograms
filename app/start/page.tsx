@@ -83,10 +83,14 @@ export default async function StartPage() {
             <Link
               key={program.id}
               href={`/programs/${program.slug}`}
-              className="group bg-white rounded-xl ring-1 ring-gray-200 p-3 flex items-center justify-between gap-2 transition-colors hover:ring-sky-300 hover:bg-sky-50/40 active:bg-sky-100"
+              className="group bg-white rounded-xl ring-1 ring-gray-200 p-3 flex flex-col gap-1.5 sm:flex-row sm:items-center sm:justify-between sm:gap-2 transition-colors hover:ring-sky-300 hover:bg-sky-50/40 active:bg-sky-100"
             >
-              <span className="text-sm font-medium text-gray-800 truncate group-hover:text-sky-700">{program.name}</span>
-              <StatusBadge status={ps.status} size="sm" />
+              <span className="min-w-0 text-sm font-medium text-gray-800 truncate group-hover:text-sky-700">
+                {program.name}
+              </span>
+              <span className="shrink-0 self-start sm:self-auto sm:max-w-[55%]">
+                <StatusBadge status={ps.status} size="sm" />
+              </span>
             </Link>
           ))}
         </div>
