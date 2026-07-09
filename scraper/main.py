@@ -30,6 +30,13 @@ TIMEOUT = 20
 SLEEP_BETWEEN = 2
 
 
+def get_database_url() -> str | None:
+    """DATABASE_URL, tolerating surrounding quotes/whitespace (common when
+    the value is copy-pasted from a .env file into a CI secret)."""
+    url = os.environ.get("DATABASE_URL", "").strip().strip("'\"").strip()
+    return url or None
+
+
 def extract_text(html: str) -> str:
     soup = BeautifulSoup(html, "html.parser")
     for tag in soup(["script", "style", "nav", "footer", "noscript", "svg"]):
@@ -94,7 +101,7 @@ def open_issue(changed: list[dict]) -> None:
     body = "\n".join(lines)
     try:
         subprocess.run(
-            ["gh", "issue", "create", "--title", title, "--body", body, "--label", "scraper"],
+            ["gh", "issue", "create", "--title", title, "--body", body],
             check=True,
         )
         print(f"[issue] opened: {title}")
@@ -104,7 +111,7 @@ def open_issue(changed: list[dict]) -> None:
 
 def sync_orgs() -> None:
     """Refresh org records from gsocorganizations.dev for orgs already curated in Neon."""
-    database_url = os.environ.get("DATABASE_URL")
+    database_url = get_database_url()
     if not database_url:
         print("[orgs] DATABASE_URL not set — skipping org sync")
         return
@@ -128,7 +135,11 @@ def sync_orgs() -> None:
 
     by_name = {o.get("name", "").strip().lower(): o for o in remote_orgs}
 
-    conn = psycopg2.connect(database_url)
+    try:
+        conn = psycopg2.connect(database_url)
+    except Exception as exc:
+        print(f"[orgs] DB connection failed — skipping org sync: {exc}", file=sys.stderr)
+        return
     cur = conn.cursor()
     cur.execute("SELECT id, name FROM orgs")
     updated = 0
@@ -163,7 +174,7 @@ def sync_outreachy() -> None:
 
     Source: outreachy.org/past-projects/ -> last N round pages -> /communities/<slug>/ links.
     """
-    database_url = os.environ.get("DATABASE_URL")
+    database_url = get_database_url()
     if not database_url:
         print("[outreachy] DATABASE_URL not set — skipping")
         return
@@ -198,7 +209,11 @@ def sync_outreachy() -> None:
         print("[outreachy] no communities found — page structure may have changed; skipping")
         return
 
-    conn = psycopg2.connect(database_url)
+    try:
+        conn = psycopg2.connect(database_url)
+    except Exception as exc:
+        print(f"[outreachy] DB connection failed — skipping: {exc}", file=sys.stderr)
+        return
     cur = conn.cursor()
     cur.execute("SELECT id, slug, programs FROM orgs")
     changed = 0
