@@ -152,7 +152,7 @@ export const seedPrograms: Program[] = [
     duration: "~3 months",
     eligibility: "Open to all (not restricted to women); very popular with Indian students",
     eligibility_notes:
-      "Leaderboard-based; great first program. Registration is free. Watch the official site/socials — dates shift year to year.",
+      "Leaderboard-based; great first program. Registration is free. 2026 applications opened Mar 24 at the launch event; selections ran end of March–early April (close date approximate). Watch the official site/socials — dates shift year to year.",
     student_only: false,
     beginner_friendly: true,
     remote: true,
@@ -162,8 +162,12 @@ export const seedPrograms: Program[] = [
     active: true,
     cohorts: [
       c(5, "2026", {
+        opens_at: "2026-03-24",
+        closes_at: "2026-04-01", // selections "end of March / early April" — approximate
+      }),
+      c(5, "2027", {
         dates_announced: false,
-        expected_note: "Next edition dates not announced — typically mid-year",
+        expected_note: "Applications expected ~March 2027 (2026 opened Mar 24)",
       }),
     ],
   },

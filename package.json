@@ -8,7 +8,7 @@
     "start": "next start",
     "lint": "next lint",
     "db:push": "drizzle-kit push",
-    "db:seed": "tsx scripts/seed.ts"
+    "db:seed": "tsx scripts/seed.ts && rm -rf .next/cache/fetch-cache"
   },
   "dependencies": {
     "@neondatabase/serverless": "^0.10.4",
