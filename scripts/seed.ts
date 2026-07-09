@@ -39,7 +39,21 @@ async function main() {
       })
       .onConflictDoUpdate({
         target: schema.programs.slug,
-        set: { name: p.name, short_description: p.short_description, stipend: p.stipend },
+        set: {
+          name: p.name,
+          short_description: p.short_description,
+          stipend: p.stipend,
+          duration: p.duration,
+          eligibility: p.eligibility,
+          eligibility_notes: p.eligibility_notes,
+          student_only: p.student_only,
+          beginner_friendly: p.beginner_friendly,
+          remote: p.remote,
+          official_url: p.official_url,
+          apply_url: p.apply_url,
+          tech_tags: p.tech_tags,
+          active: p.active,
+        },
       })
       .returning({ id: schema.programs.id });
 
