@@ -22,7 +22,7 @@ export async function sendEmail(opts: {
       "Content-Type": "application/json",
     },
     body: JSON.stringify({
-      from: `${SITE_NAME} <alerts@resend.dev>`,
+      from: process.env.EMAIL_FROM || `${SITE_NAME} <alerts@osprograms.dev>`,
       to: [opts.to],
       subject: opts.subject,
       text: opts.text,
