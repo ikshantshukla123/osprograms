@@ -1,13 +1,13 @@
 import { NextResponse } from "next/server";
 import { sql } from "drizzle-orm";
-import { hasDb, getDb, schema } from "@/lib/db";
+import { hasDb, getLiveDb, schema } from "@/lib/db";
 
 export const dynamic = "force-dynamic";
 
 /** GET returns the visitor count; POST increments it (once per browser session, client-enforced). */
 export async function GET() {
   if (!hasDb()) return NextResponse.json({ count: null });
-  const db = getDb();
+  const db = getLiveDb();
   const rows = await db.select().from(schema.site_stats);
   const count = rows.find((r) => r.key === "visits")?.value ?? 0;
   return NextResponse.json({ count });
@@ -15,7 +15,7 @@ export async function GET() {
 
 export async function POST() {
   if (!hasDb()) return NextResponse.json({ count: null });
-  const db = getDb();
+  const db = getLiveDb();
   const [row] = await db
     .insert(schema.site_stats)
     .values({ key: "visits", value: 1 })

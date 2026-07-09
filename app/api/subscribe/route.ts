@@ -1,7 +1,7 @@
 import { NextResponse } from "next/server";
 import { randomUUID } from "crypto";
 import { eq } from "drizzle-orm";
-import { hasDb, getDb, schema } from "@/lib/db";
+import { hasDb, getLiveDb, schema } from "@/lib/db";
 import { sendEmail, verificationEmail } from "@/lib/email";
 
 const EMAIL_RE = /^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/;
@@ -29,7 +29,7 @@ export async function POST(req: Request) {
     ? body.program_ids.filter((n) => Number.isInteger(n)).slice(0, 100)
     : [];
 
-  const db = getDb();
+  const db = getLiveDb();
   const token = randomUUID();
 
   const existing = await db

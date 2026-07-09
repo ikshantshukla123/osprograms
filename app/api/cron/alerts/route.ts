@@ -1,6 +1,6 @@
 import { NextResponse } from "next/server";
 import { and, eq, gte, lte, isNotNull } from "drizzle-orm";
-import { hasDb, getDb, schema } from "@/lib/db";
+import { hasDb, getLiveDb, schema } from "@/lib/db";
 import { sendEmail, alertEmail } from "@/lib/email";
 import { formatDate } from "@/lib/status";
 
@@ -22,7 +22,7 @@ export async function GET(req: Request) {
     return NextResponse.json({ error: "Database not configured" }, { status: 503 });
   }
 
-  const db = getDb();
+  const db = getLiveDb();
   const today = new Date().toISOString().slice(0, 10);
   const plus = (days: number) => {
     const d = new Date(today + "T00:00:00Z");

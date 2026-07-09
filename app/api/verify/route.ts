@@ -1,6 +1,6 @@
 import { NextResponse } from "next/server";
 import { eq } from "drizzle-orm";
-import { hasDb, getDb, schema } from "@/lib/db";
+import { hasDb, getLiveDb, schema } from "@/lib/db";
 import { SITE_URL } from "@/lib/data";
 
 export async function GET(req: Request) {
@@ -11,7 +11,7 @@ export async function GET(req: Request) {
   if (!token) {
     return NextResponse.json({ error: "Missing token" }, { status: 400 });
   }
-  const db = getDb();
+  const db = getLiveDb();
   const rows = await db
     .update(schema.subscribers)
     .set({ verified: true })
