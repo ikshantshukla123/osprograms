@@ -22,8 +22,8 @@ Contributors
 @arthurnn
 @ejholmes
 @muan
-@adambutler
 @PeterDaveHello
+@adambutler
 @changeworld
 @steverob
 @barisbalic
