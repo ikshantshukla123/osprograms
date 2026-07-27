@@ -1,8 +1,5 @@
 GirlScript Summer of Code 2026 - World's Largest Open Source Program
 GSSoC
-Community
-Label carefully. Your choices affect real scores.
-See label guide
 Contributors
 50K+
 Annual applicants and growing every year
