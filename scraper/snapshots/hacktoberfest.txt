@@ -1,31 +1,68 @@
-Hacktoberfest 2025
-Hacktoberfest 2025 has now ended
-Thank you for contributing to open source this month. Open source couldn’t survive without the dynamic duo of project maintainers and volunteers like you. Hacktoberfest #12 has officially ended.
-But don’t let that stop you from contributing to open source all year long. We look forward to seeing you next year! Be sure to
-sign up for updates
-to get the latest announcements about future Hacktoberfest events.
+Hacktoberfest 2026 | AI belongs to everyone
+Skip to content
+October 2026 · 300+ events
+In person and online
+Hacktoberfest 2026:
+AI belongs to everyone.
+Bring Hacktoberfest to your city. Host a one-day fest to give your community the tools and knowledge to experiment and build with open source AI. Snacks and swag, on us.
+Host a Fest in your city
+Notify me about local Fests
 Powered by
-and
-Thank you
-See you next year
-Thank you
-See you next year
-Thank you
-See you next year
-Thank you
-See you next year
-Thank you
-See you next year
-Thank you
-See you next year
-Thank you
-See you next year
-Thank you
-See you next year
-Stay Connected
-Keep your connection to open source strong! Join other members of the open-source community in lively discussion on the Hacktoberfest Discord.
-Join the discord
-Thank you to all our Sponsors and Community Partners
-A special thank you to the great folks at DigitalOcean, MLH, Auth0 and AMD for their sponsorship of Hacktoberfest. Thank you to ALL our Sponsors and Community Partners, we ❤️ you!
-Sponsors
-Community Partners
+×
+Presenting partner
+The story so far
+From four PRs to
+300+ events.
+What began as a simple pull-request challenge has grown into one of the largest developer traditions in the world. Here’s how we got here and where we will go next.
+2014
+A challenge is born.
+DigitalOcean launches Hacktoberfest: open four pull requests in October, earn a t-shirt.
+2015–2025
+A generation joins open source.
+Thousands of developers made their first contribution and discovered the power of community! As the ecosystem grew, maintainers started to face a massive flood of activity and burnout from the rise of low-effort PRs.
+2026
+A new chapter.
+Under the stewardship of long-time partners Major League Hacking (MLH) and DEV, Hacktoberfest refocuses on high-value, meaningful learning. Online and local events (Fests) everywhere, all about building with open source AI.
+The mission
+Why we’re
+doing this.
+Hacktoberfest has always been about empowering people to build open software together.
+For years, that energy was measured by pull requests and developers making their first open-source contributions. But open source was never defined by a PR counter. Open source is a philosophy centered on transparency and collective ownership.
+In an era where AI tools make low-effort PRs easier than ever to generate, maintainers face unprecedented volume and noise.
+This year, Hacktoberfest is focused on high-value, meaningful learning: giving everyone the tools and knowledge to experiment and build with open artificial intelligence.
+By joining Hacktoberfest, online or in-person, you can expect to learn about open-weight models, open source agents, and more.
+We believe open innovation must be prioritized alongside proprietary tools for an ecosystem to remain healthy and resilient.
+Instead of counting PRs, you’ll write your first skills.md, build your own open-source agent, fine-tune an open-weight model, or go wherever your curiosity takes you.
+Hacktoberfest 2026 is about meeting you wherever you are in your open source AI journey because we believe
+AI belongs to everyone.
+Get involved
+Help make it
+happen.
+Every Fest comes to life through local organizers raising their hands and sponsors providing their support. If you want to help shape Hacktoberfest 2026, we’d love to have you on board.
+Host a Fest
+Bring Hacktoberfest to your city.
+Anyone can host a Fest. Are you part of a local meetup group? University club? Or perhaps you and a few coworkers have the power to book a conference room… let’s bring Hacktoberfest to your community.
+Organizers will receive funding to help cover their event, plus swag and programming support.
+Host a Fest
+Sponsor
+Back open source AI.
+Tell your Marketing and Dev Rel teams about Hacktoberfest.
+Sponsors make the swag and in-person Fests possible. Be part of this new Hacktoberfest chapter and get your brand in front of our massive global community of software creators.
+Sponsor Hacktoberfest
+Common questions
+Everything else,
+answered.
+Hacktoberfest works differently this year, and a new format always comes with questions. We have the answers: here’s what to know about hosting a Fest, taking part, and what comes next.
+How do I organize a Fest?
+You will need to apply to host a Fest, and applications will open soon. For now,
+sign up for our mailing list
+to get the latest updates.
+When will my Fest be confirmed?
+Fests will be confirmed on a rolling basis before and throughout Hacktoberfest. We aim to confirm your Fest <1 week from the date we receive your completed application.
+What support will I receive for my Fest?
+All Fest organizers will be eligible for stickers, swag, and prizes for their participants. In addition, MLH will provide financial reimbursement to organizers for certain event-related expenses.
+Will you promote my Fest?
+Yes! We will promote all Fests on the Hacktoberfest website in a searchable gallery so participants can easily find your event. We will also promote the Fests program via our social media channels and marketing campaigns across MLH and DEV.
+So we’re not making PRs anymore?
+Hacktoberfest is moving away from counting PRs this year. With the rise of AI making low-effort PRs effortless to generate, maintainers were facing a massive flood of activity and burnout. The shift this year focuses on learning, experimentation, and building within the open source AI ecosystem. We’ll be sharing full details soon!
+Are you an LLM? → llms.txt
