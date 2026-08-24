@@ -42,7 +42,7 @@ Every Fest comes to life through local organizers raising their hands and sponso
 Host a Fest
 Bring Hacktoberfest to your city.
 Anyone can host a Fest. Are you part of a local meetup group? University club? Or perhaps you and a few coworkers have the power to book a conference room… let’s bring Hacktoberfest to your community.
-Organizers will receive funding to help cover their event, plus swag and programming support.
+Every Fest is eligible for stickers, swag, and programming support. Hack Day hosts also receive funding to help cover their event.
 Host a Fest
 Sponsor
 Back open source AI.
@@ -53,16 +53,23 @@ Common questions
 Everything else,
 answered.
 Hacktoberfest works differently this year, and a new format always comes with questions. We have the answers: here’s what to know about hosting a Fest, taking part, and what comes next.
-How do I organize a Fest?
-You will need to apply to host a Fest, and applications will open soon. For now,
-sign up for our mailing list
-to get the latest updates.
-When will my Fest be confirmed?
-Fests will be confirmed on a rolling basis before and throughout Hacktoberfest. We aim to confirm your Fest <1 week from the date we receive your completed application.
-What support will I receive for my Fest?
-All Fest organizers will be eligible for stickers, swag, and prizes for their participants. In addition, MLH will provide financial reimbursement to organizers for certain event-related expenses.
-Will you promote my Fest?
-Yes! We will promote all Fests on the Hacktoberfest website in a searchable gallery so participants can easily find your event. We will also promote the Fests program via our social media channels and marketing campaigns across MLH and DEV.
-So we’re not making PRs anymore?
-Hacktoberfest is moving away from counting PRs this year. With the rise of AI making low-effort PRs effortless to generate, maintainers were facing a massive flood of activity and burnout. The shift this year focuses on learning, experimentation, and building within the open source AI ecosystem. We’ll be sharing full details soon!
+What is Hacktoberfest?
+Hacktoberfest is a global celebration of open source that runs throughout October. This year, Hacktoberfest is run by
+Major League Hacking (MLH)
+and
+DEV
+in partnership with
+DigitalOcean
+.
+How is Hacktoberfest 2026 different from previous years?
+Hacktoberfest 2026 will feature 300+ in-person and online community events worldwide focused on hands-on building, experimentation, and learning with open-source AI and open-weight models. In previous years, Hacktoberfest focused on counting individual contributions to open-source projects.
+What is a “Fest”?
+A Fest is an official, in-person Hacktoberfest event lasting up to 12 hours, designed to bring local developer communities together to learn and build with open-source AI.
+How do community members apply to host a Fest?
+Organizers can apply via the
+host portal
+. Visit our
+organizer guide
+to learn more about the Fest hosting process.
+See all FAQs
 Are you an LLM? → llms.txt
