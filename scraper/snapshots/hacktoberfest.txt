@@ -1,12 +1,14 @@
 Hacktoberfest 2026 | AI belongs to everyone
 Skip to content
+It’s Preptember! Get your Fest applications in.
+→
 October 2026 · 300+ events
 In person and online
 Hacktoberfest 2026:
 AI belongs to everyone.
 Bring Hacktoberfest to your city. Host a one-day fest to give your community the tools and knowledge to experiment and build with open source AI. Snacks and swag, on us.
 Host a Fest in your city
-Notify me about local Fests
+Find a Fest near you
 Powered by
 ×
 Presenting partner
@@ -35,6 +37,13 @@ We believe open innovation must be prioritized alongside proprietary tools for a
 Instead of counting PRs, you’ll write your first skills.md, build your own open-source agent, fine-tune an open-weight model, or go wherever your curiosity takes you.
 Hacktoberfest 2026 is about meeting you wherever you are in your open source AI journey because we believe
 AI belongs to everyone.
+Partners & sponsors
+Backing the
+builders.
+Hacktoberfest is powered by MLH and DEV and presented by DigitalOcean. Alongside them, this year’s sponsors cover the Fests, the swag, and the participant packs that reach builders around the world.
+Powered by
+×
+Presenting partner
 Get involved
 Help make it
 happen.
