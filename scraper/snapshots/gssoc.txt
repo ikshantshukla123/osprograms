@@ -99,9 +99,9 @@ Build and publish agents
 Work on real Indian use cases
 →
 Smartly Labs ecosystem access
-Apply for Agents Track
+Join the AI Agents Track
 02
-Classic GSSoC
+Closed
 Open Source Program
 GSSoC Open
 Source Track
@@ -114,7 +114,9 @@ Improve your GitHub profile
 Learn collaboration and code review
 →
 Expert mentorship throughout
-Apply for GSSoC Track
+Closed
+16 August 2026
+· scores final
 Featured Bounty Partner
 Cloudinary
 Featured 2026

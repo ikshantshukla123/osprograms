@@ -129,7 +129,6 @@ Contributors
 @leereilly
 @vyper
 @mattgillooly
-@oalders
 @orendon
 @phlipper
 @pimpin
@@ -139,6 +138,8 @@ Contributors
 @rowanhill
 @ojiry
 @saakshiraut28
+@sambhav2612
+@oalders
 @trubitsyn
 @NARKOZ
 @nateberkopec
@@ -149,7 +150,6 @@ Contributors
 @mhor
 @manojlds
 @maciej-ka
-@ericboucher
 @robertomiranda
 @killerog
 @jackhughesweb
@@ -169,7 +169,7 @@ Contributors
 @oktupol
 @seanhussey
 @sufuf3
-@sambhav2612
+@ericboucher
 @davidcelis
 @djpowers
 @d2s
