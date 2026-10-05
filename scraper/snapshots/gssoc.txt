@@ -168,19 +168,6 @@ Start contributing
 Earn points
 06
 Get recognized
-Scoring & Rewards
-Leaderboard
-& Rewards
-Every contribution counts. The leaderboard tracks your progress in real time, earn points, climb ranks, and get recognized at the end of the program.
-01
-Contribution-based scoring
-Every merged PR, deployed agent, and completed task earns points on the live leaderboard.
-02
-Bonus points via partners
-Partner bounty programs (Cloudinary & more) unlock extra leaderboard points on top of your contributions.
-03
-Recognition for top contributors
-Certificates, swag, and featured recognition for the top performers across both tracks at program end.
 Community
 What People Say About Previous Editions
 Stories from contributors, mentors, and project admins of past editions.

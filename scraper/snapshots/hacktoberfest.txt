@@ -1,42 +1,67 @@
 Hacktoberfest 2026 | AI belongs to everyone
 Skip to content
-It’s Preptember! Get your Fest applications in.
-→
-October 2026 · 300+ events
-In person and online
+October 2026
+In-person and online · Free
+4
+5
+0+ Fests.
+One is near you.
+Find a Fest by city, country or name
+Find a Fest
+Find
+Can’t make it in person?
+Join online from anywhere and get swag shipped to your door
 Hacktoberfest 2026:
 AI belongs to everyone.
-Bring Hacktoberfest to your city. Host a one-day fest to give your community the tools and knowledge to experiment and build with open source AI. Snacks and swag, on us.
-Host a Fest in your city
-Find a Fest near you
 Powered by
 ×
 Presenting partner
-The story so far
-From four PRs to
-300+ events.
-What began as a simple pull-request challenge has grown into one of the largest developer traditions in the world. Here’s how we got here and where we will go next.
-2014
-A challenge is born.
-DigitalOcean launches Hacktoberfest: open four pull requests in October, earn a t-shirt.
-2015–2025
-A generation joins open source.
-Thousands of developers made their first contribution and discovered the power of community! As the ecosystem grew, maintainers started to face a massive flood of activity and burnout from the rise of low-effort PRs.
-2026
-A new chapter.
-Under the stewardship of long-time partners Major League Hacking (MLH) and DEV, Hacktoberfest refocuses on high-value, meaningful learning. Online and local events (Fests) everywhere, all about building with open source AI.
-The mission
-Why we’re
-doing this.
-Hacktoberfest has always been about empowering people to build open software together.
-For years, that energy was measured by pull requests and developers making their first open-source contributions. But open source was never defined by a PR counter. Open source is a philosophy centered on transparency and collective ownership.
-In an era where AI tools make low-effort PRs easier than ever to generate, maintainers face unprecedented volume and noise.
-This year, Hacktoberfest is focused on high-value, meaningful learning: giving everyone the tools and knowledge to experiment and build with open artificial intelligence.
-By joining Hacktoberfest, online or in-person, you can expect to learn about open-weight models, open source agents, and more.
-We believe open innovation must be prioritized alongside proprietary tools for an ecosystem to remain healthy and resilient.
-Instead of counting PRs, you’ll write your first skills.md, build your own open-source agent, fine-tune an open-weight model, or go wherever your curiosity takes you.
-Hacktoberfest 2026 is about meeting you wherever you are in your open source AI journey because we believe
-AI belongs to everyone.
+Introduction
+What is
+Hacktoberfest?
+Hacktoberfest is a month-long celebration of open source throughout October.
+This year, it’s all about building with open-weight models and open-source AI.
+It’s free, and it’s for everyone, wherever you are in your open-source AI or software creating journey.
+Join one of 300+ Fests in cities around the world, take part online all month, or both.
+Taken part before? Pull requests no longer count toward rewards but
+there are more ways than ever for you to earn t-shirts, stickers, and more.
+Read our mission
+Where to go
+Upcoming
+Fests.
+300+ Fests are taking place across the world. Here are a few happening soon.
+Loading the next Fests…
+See every Fest
+Attend online
+Can’t get to a Fest?
+Join from anywhere.
+Hacktoberfest is online all October with livestreams and challenges. Collect virtual stickers for participating and we’ll ship you swag right to your door.
+Livestreams
+Sessions on open-weight models, agents and tools. Check in with the code on screen to collect a sticker.
+See the schedule
+DEV Challenges
+A new mini-hackathon launches every week in October.
+See the challenges
+Global Hack Week
+A one-week hacker festival filled with livestream sessions and challenges.
+See the sessions
+Attend online
+How it works
+Sign in, show up,
+collect stickers.
+Before
+01
+Sign in with MyMLH
+Free, and it takes a minute. Sign in and add your address for your first two stickers.
+In October
+02
+Go to a Fest, or join online
+Register on a Fest’s page, or check the schedule for livestreams and challenges.
+03
+Get a swag pack in the mail
+Collect three virtual stickers and we mail you a real sticker pack. Keep going for more and unlock even more swag.
+Start your sticker book
+Stickers and prizes will be mailed 8-12 weeks after Hacktoberfest concludes.
 Partners & sponsors
 Backing the
 builders.
@@ -44,41 +69,33 @@ Hacktoberfest is powered by MLH and DEV and presented by DigitalOcean. Alongside
 Powered by
 ×
 Presenting partner
-Get involved
-Help make it
-happen.
-Every Fest comes to life through local organizers raising their hands and sponsors providing their support. If you want to help shape Hacktoberfest 2026, we’d love to have you on board.
-Host a Fest
-Bring Hacktoberfest to your city.
-Anyone can host a Fest. Are you part of a local meetup group? University club? Or perhaps you and a few coworkers have the power to book a conference room… let’s bring Hacktoberfest to your community.
-Every Fest is eligible for stickers, swag, and programming support. Hack Day hosts also receive funding to help cover their event.
-Host a Fest
-Sponsor
-Back open source AI.
-Tell your Marketing and Dev Rel teams about Hacktoberfest.
-Sponsors make the swag and in-person Fests possible. Be part of this new Hacktoberfest chapter and get your brand in front of our massive global community of software creators.
-Sponsor Hacktoberfest
 Common questions
 Everything else,
 answered.
-Hacktoberfest works differently this year, and a new format always comes with questions. We have the answers: here’s what to know about hosting a Fest, taking part, and what comes next.
-What is Hacktoberfest?
-Hacktoberfest is a global celebration of open source that runs throughout October. This year, Hacktoberfest is run by
-Major League Hacking (MLH)
+Hacktoberfest works differently this year, and a new format always comes with questions. We have the answers: here’s how to take part, in-person or online, and what you can earn along the way.
+What is Hacktoberfest 2026?
+Hacktoberfest is a month-long celebration of open source throughout October. In 2026, the focus is on learning and building with open-source AI and open-weight models, both through in-person and online activities.
+MLH
 and
 DEV
-in partnership with
+are managing the event this year in partnership with our friends at
 DigitalOcean
 .
-How is Hacktoberfest 2026 different from previous years?
-Hacktoberfest 2026 will feature 300+ in-person and online community events worldwide focused on hands-on building, experimentation, and learning with open-source AI and open-weight models. In previous years, Hacktoberfest focused on counting individual contributions to open-source projects.
-What is a “Fest”?
-A Fest is an official, in-person Hacktoberfest event lasting up to 12 hours, designed to bring local developer communities together to learn and build with open-source AI.
-How do community members apply to host a Fest?
-Organizers can apply via the
-host portal
-. Visit our
-organizer guide
-to learn more about the Fest hosting process.
+Do I still submit pull requests to earn swag?
+Pull requests and merge requests will no longer count toward Hacktoberfest rewards. It’s easier than ever to submit low-effort spam PRs to projects, so we’re listening to maintainer feedback and no longer actively incentivizing PRs. That being said, we certainly still encourage you to work on open source and share your work with the world during Hacktoberfest. Our new format focuses on learning and building together while reducing the burden of low-effort contributions on maintainers.
+How do I take part?
+Sign in to
+My Hacktoberfest
+with your MyMLH account. The participant dashboard will open by October 1 and show the activities and requirements needed to earn your sticker pack. Connecting your DEV account is optional but recommended, since it will award you a special DEV badge and allow you to earn credit for participating in DEV Challenges.
+In person:
+Find a Fest
+and register on its event page. Each Fest has a separate registration.
+Online:
+Join
+DEV Challenges
+, MLH livestreams, or Global Hack Week: Hacktoberfest to connect with our community and complete digital challenges.
+Anyone is welcome to participate online, in person, or both.
+How do I earn swag?
+Fests will have T-shirts and other swag available in limited quantities. Contact your local host to learn more about what is available at their Fest and how to receive the swag. If your Fest ran out of stickers, don’t worry! We will be sending a sticker pack directly to your door as a thank you for participating.
 See all FAQs
 Are you an LLM? → llms.txt
