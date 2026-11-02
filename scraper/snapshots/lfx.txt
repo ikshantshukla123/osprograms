@@ -1,1 +1,71 @@
+LFX Mentorship
 Mentorship
+Enroll a Program
+Become a Mentor
+My Mentorship
+0 mentees graduated since 2019
+Learn open source by building it.
+LFX Mentorship pairs contributors with experienced project members who run modern infrastructure. Over the course of a term you take on real, scoped work and review it with your mentor.
+Many programs offer a stipend
+Multi-week programs
+0 programs across 0 foundations
+Find a Program
+Enroll a Program
+0
+Programs Accepting
+0
+Mentees Graduated
+$0.0
+Stipends Paid
+0
+Active Mentors
+How It Works
+1
+Build your profile
+Add your skills, links and a short introduction. Mentors read this first.
+2
+Apply to programs
+Up to three applications per term. Each one is reviewed by the program mentors.
+3
+Get matched
+Mentors score applicants on skills fit and intent, then accept for the term.
+4
+Do the work
+Twelve weeks of scoped tasks with weekly reviews from your mentor.
+5
+Graduate
+Pass the final evaluation and receive your stipend installments.
+Who Can Apply
+You are 18 or older.
+You can commit consistent hours for the full term.
+You may have up to 3 applications at a time.
+You may only enter one Mentorship program in your career.
+Not every program is funded. Where a stipend is offered, the amount varies by program and by your country of residence. Each program page lists its own stipend.
+Funded work where available
+Many programs carry a stipend, paid in milestone installments. Amounts vary by program and country of residence.
+A named mentor
+You work with an experienced project contributor who scopes your tasks and reviews everything you submit.
+Real, merged work
+Tasks come from the project backlog, so what you finish ships to the people who depend on it.
+No experience required
+Most programs expect you to learn the domain as you start. Prior open source work is not required.
+Frequently Asked
+Full FAQ & documentation
+Is there a stipend?
+Not every program is funded. Where a stipend is offered it varies by program and by your country of residence, and the program page says so before you apply.
+Who can apply?
+Anyone 18 or older who has not previously completed an LFX mentorship.
+What happens at the end?
+You complete a final evaluation with your mentor. Graduating is recorded on your profile.
+How much time does a term take?
+A significant weekly commitment across a multi-week program. Each program page lists its own term dates.
+Do I need to be a student?
+No. Some programs ask for school enrollment verification, but many do not.
+How many programs can I apply to?
+You may have up to three applications at a time. Withdrawing an application frees a slot.
+How are applicants chosen?
+Program mentors review each application against the skills they listed and what you wrote in your cover letter.
+0 programs are accepting applications
+Browse by foundation, skill or term. You can have up to three applications at a time.
+Find a Program
+Help
